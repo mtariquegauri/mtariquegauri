@@ -2,11 +2,11 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **SDET**
 
 - 📫 Reach me at **mtariquegauri@gmail.com**
 
-- 📄 Know about my experiences : [RESUME](https://drive.google.com/file/d/1SQO1YbhyTswkQvzR8h2Cy-EyYlJrduhT/view?usp=sharing)
+- 📄 Know about my experiences : [RESUME]([https://drive.google.com/file/d/1SQO1YbhyTswkQvzR8h2Cy-EyYlJrduhT/view?usp=sharing](https://drive.google.com/file/d/1-HZrNz1fIU1txKTystzTQKHuWtexvoDO/view?usp=drivesdk&usp=embed_facebook&usp=embed_facebook))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

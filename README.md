@@ -6,7 +6,7 @@
 
 - 📫 Reach me at **mtariquegauri@gmail.com**
 
-- 📄 Know about my experiences : [RESUME]([https://drive.google.com/file/d/1SQO1YbhyTswkQvzR8h2Cy-EyYlJrduhT/view?usp=sharing](https://drive.google.com/file/d/1-HZrNz1fIU1txKTystzTQKHuWtexvoDO/view?usp=drivesdk&usp=embed_facebook&usp=embed_facebook))
+- 📄 Know about my experiences : [RESUME]([https://drive.google.com/file/d/14mqhgGoPrhPZRFiz3FrclXFla_mV0JsM/view](https://drive.google.com/file/d/14mqhgGoPrhPZRFiz3FrclXFla_mV0JsM/view))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
